@@ -1,0 +1,15 @@
+D:\Programming Fundamentals\Final Project\program execution\bin\Debug\net7.0\program execution.exe
+D:\Programming Fundamentals\Final Project\program execution\bin\Debug\net7.0\program execution.deps.json
+D:\Programming Fundamentals\Final Project\program execution\bin\Debug\net7.0\program execution.runtimeconfig.json
+D:\Programming Fundamentals\Final Project\program execution\bin\Debug\net7.0\program execution.dll
+D:\Programming Fundamentals\Final Project\program execution\bin\Debug\net7.0\program execution.pdb
+D:\Programming Fundamentals\Final Project\program execution\obj\Debug\net7.0\program execution.csproj.AssemblyReference.cache
+D:\Programming Fundamentals\Final Project\program execution\obj\Debug\net7.0\program execution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Fundamentals\Final Project\program execution\obj\Debug\net7.0\program execution.AssemblyInfoInputs.cache
+D:\Programming Fundamentals\Final Project\program execution\obj\Debug\net7.0\program execution.AssemblyInfo.cs
+D:\Programming Fundamentals\Final Project\program execution\obj\Debug\net7.0\program execution.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\Final Project\program execution\obj\Debug\net7.0\program execution.dll
+D:\Programming Fundamentals\Final Project\program execution\obj\Debug\net7.0\refint\program execution.dll
+D:\Programming Fundamentals\Final Project\program execution\obj\Debug\net7.0\program execution.pdb
+D:\Programming Fundamentals\Final Project\program execution\obj\Debug\net7.0\program execution.genruntimeconfig.cache
+D:\Programming Fundamentals\Final Project\program execution\obj\Debug\net7.0\ref\program execution.dll

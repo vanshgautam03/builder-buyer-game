@@ -1,0 +1,15 @@
+D:\Programming Fundamentals\Final Project\game\bin\Debug\net7.0\game.exe
+D:\Programming Fundamentals\Final Project\game\bin\Debug\net7.0\game.deps.json
+D:\Programming Fundamentals\Final Project\game\bin\Debug\net7.0\game.runtimeconfig.json
+D:\Programming Fundamentals\Final Project\game\bin\Debug\net7.0\game.dll
+D:\Programming Fundamentals\Final Project\game\bin\Debug\net7.0\game.pdb
+D:\Programming Fundamentals\Final Project\game\obj\Debug\net7.0\game.csproj.AssemblyReference.cache
+D:\Programming Fundamentals\Final Project\game\obj\Debug\net7.0\game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Fundamentals\Final Project\game\obj\Debug\net7.0\game.AssemblyInfoInputs.cache
+D:\Programming Fundamentals\Final Project\game\obj\Debug\net7.0\game.AssemblyInfo.cs
+D:\Programming Fundamentals\Final Project\game\obj\Debug\net7.0\game.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\Final Project\game\obj\Debug\net7.0\game.dll
+D:\Programming Fundamentals\Final Project\game\obj\Debug\net7.0\refint\game.dll
+D:\Programming Fundamentals\Final Project\game\obj\Debug\net7.0\game.pdb
+D:\Programming Fundamentals\Final Project\game\obj\Debug\net7.0\game.genruntimeconfig.cache
+D:\Programming Fundamentals\Final Project\game\obj\Debug\net7.0\ref\game.dll
